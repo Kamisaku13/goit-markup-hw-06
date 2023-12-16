@@ -1030,18 +1030,16 @@ screen and (min-device-pixel-ratio: 2) {
         display: flex;
         justify-content: center;
         text-align: center;
-        padding-top: 16px;
         padding-right: 0;
     }
 
     .menu-contacts-link {
         display: flex;
         flex-wrap: wrap;
-        margin-bottom: 12px;
     }
 
     .contacts {
-        font-size: 12px;
+        font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 1.17;
